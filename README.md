@@ -153,6 +153,9 @@
   </div>
 </div>
 
+<p align="right">
+  <img src="cat.gif" width="%"40 />
+</p>
 
 ### 🧰 Languages & Tools
 
