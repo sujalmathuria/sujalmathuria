@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src=ban.png" width="100%" />
+  <img src="ban.png" width="100%" />
 </p>
 
 <h2 align="center">🚀 Data Analyst | Data Scientist | AI Enthusiast |</h2>
