@@ -45,11 +45,10 @@
 - 📫 Reach me at: `sujamathuria327@gmail.com`  
 - 📄 [View My Resume](https://drive.google.com/file/d/1wAzRmN0aMfuX0C15c6KogDCNEuDjH8s3/view?usp=drive_link)  
 - ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
-
----
 <p align="left">
-  <img src="dev.gif" width="50%" />
+  <img src="dev.gif" width="30%" />
 </p>
+---
 <div align="center">
   <h2>🔮 SKILL MATRIX</h2>
   
