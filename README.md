@@ -47,7 +47,9 @@
 - ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
 
 ---
-
+<p align="left">
+  <img src="dev.gif" width="50%" />
+</p>
 <div align="center">
   <h2>🔮 SKILL MATRIX</h2>
   
