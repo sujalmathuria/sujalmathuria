@@ -6,6 +6,10 @@
 </h1>
 
 <p align="center">
+  <img src="car.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="ban.png" width="100%" />
 </p>
 
