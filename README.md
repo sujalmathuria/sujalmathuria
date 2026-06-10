@@ -153,7 +153,7 @@
   </div>
 </div>
 
-<p align="right">
+<p align="center">
   <img src="cat.gif" width="%"40 />
 </p>
 
