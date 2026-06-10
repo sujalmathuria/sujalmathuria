@@ -39,7 +39,7 @@
 - 🤖 Building mini projects with **AI, ML, and DL**  
 - 🤝 Open to collaborating on **Data Projects** & **AI Projects**  
 - 📫 Reach me at: `sujamathuria327@gmail.com`  
-- 📄 [View My Resume](https://drive.google.com/file/d/1UJ1aPS_qMU_chbBVCIH_nN6MuE4ix67y/view?usp=drive_link)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1wAzRmN0aMfuX0C15c6KogDCNEuDjH8s3/view?usp=drive_link)  
 - ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
 
 ---
