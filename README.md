@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="car.gif" width="100%" />
+  <img src="car.gif" width="80%" />
 </p>
 
 <p align="center">
